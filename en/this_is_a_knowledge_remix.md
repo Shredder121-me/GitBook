@@ -2,7 +2,7 @@
 
 Just as in the Bitcoin ecosystem, in the beginning, there was quite a bit of knowledge fragmentatation - one blog post here, a forum post tutorial there, a misleading article there and so on. 
 
-This book represents a mashup of wiki pages, tutorials and other relevant information that so far has been scattered  without an easy way to find and access it. 
+This book represents a mash up of wiki pages, tutorials and other relevant information that so far has been scattered  without an easy way to find and access it. 
 
 ###The aim of this work
 
